@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragmentacion horizontal", "Fragmentacion horizontal.csproj", "{C522AA11-85DD-4A0B-8CBF-E9F3012DE480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C522AA11-85DD-4A0B-8CBF-E9F3012DE480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C522AA11-85DD-4A0B-8CBF-E9F3012DE480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C522AA11-85DD-4A0B-8CBF-E9F3012DE480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C522AA11-85DD-4A0B-8CBF-E9F3012DE480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22451E83-C758-482B-A01A-A04045AA2B5A}
+	EndGlobalSection
+EndGlobal
